@@ -372,9 +372,9 @@
   integrity sha512-LwzQKA4vzIct1zNZzBmRKI9QuNpLgTQMEjsQLf3BXuGYb3QPTP4Yjf6mkdX+X1mYttZ808QpOwAzZjv28kq7DA==
 
 "@sanity/cli@^2.30.6":
-  version "2.30.6"
-  resolved "https://registry.npmjs.org/@sanity/cli/-/cli-2.30.6.tgz"
-  integrity sha512-YkVWTXF3FlIZMhs5bzwqppC+MlRtr3n3WW96LAgQxrvTNO1/9PFIN1zb8jL40PtxGEDDMTdin+eJaHuilZjCGQ==
+  version "2.32.0"
+  resolved "https://registry.yarnpkg.com/@sanity/cli/-/cli-2.32.0.tgz#020a590736b3c8de78ed89edd02ead896b13909b"
+  integrity sha512-iddNAZToi8kfuYlavPHIm+O8mrKYwU1tPMmEdbyocpIv8r3mdWWjH1Xe5gLRd78k4B6J0oppTeus0U1PDdsZ8Q==
 
 "@sanity/client@^3.3.3":
   version "3.3.3"
